@@ -1,2 +1,2 @@
 # Py-Programs
-various Python projects I've worked on.
+various Python projects I am or have worked on.
